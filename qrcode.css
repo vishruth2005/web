@@ -1,0 +1,32 @@
+.container {
+    display: block;
+    margin: 8% 40%;
+    padding: 10px;
+    height: 375px;
+    width: 235px;
+    background-color: white;
+    border-radius: 15px;
+}
+img{
+    height: 235px;
+    width: 235px;
+    border-radius: 15px;
+}
+body{
+    background-color: rgb(218, 236, 236);
+}
+.text{
+    text-align: center;
+    font-family: sans-serif;
+}
+h4{
+    font-weight: bold;
+    margin: 7%;
+    font-size: medium;
+}
+p{
+    font-weight: lighter;
+    color: gray;
+    margin: 1%;
+    font-size: small;
+}
